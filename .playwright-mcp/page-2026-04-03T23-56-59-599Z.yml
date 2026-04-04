@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a pricing card component
+            - img [ref=e60]
+          - generic [ref=e81]:
+            - img [ref=e84]
+            - generic [ref=e89]:
+              - generic [ref=e92]: Creating App.jsx
+              - separator [ref=e93]
+              - generic [ref=e96]: Creating PricingCard.jsx
+              - separator [ref=e97]
+              - generic [ref=e98]:
+                - paragraph [ref=e99]:
+                  - text: Done! Created a reusable
+                  - code [ref=e457]: PricingCard
+                  - text: "component with:"
+                - list [ref=e101]:
+                  - listitem [ref=e102]: Customizable name, price, description, and features
+                  - listitem [ref=e103]: Highlighted option for featured plans
+                  - listitem [ref=e104]: Checkmark icons for features
+                  - listitem [ref=e105]: Hover scale effect
+                  - listitem [ref=e106]: Responsive grid layout in App.jsx with 3 example pricing tiers
+          - generic [ref=e458]:
+            - generic [ref=e461]: Create a pricing card component
+            - img [ref=e464]
+          - generic [ref=e467]:
+            - img [ref=e470]
+            - generic [ref=e475]:
+              - generic [ref=e478]: Creating App.jsx
+              - separator [ref=e479]
+              - generic [ref=e480]:
+                - img [ref=e481]
+                - generic [ref=e483]: Generating...
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e456]:
+        - generic [ref=f3e4]:
+          - heading "Simple, Transparent Pricing" [level=1] [ref=f3e5]
+          - generic [ref=f3e6]:
+            - generic [ref=f3e7]:
+              - generic [ref=f3e8]:
+                - heading "Starter" [level=3] [ref=f3e9]
+                - paragraph [ref=f3e10]: Perfect for getting started
+              - generic [ref=f3e12]:
+                - generic [ref=f3e13]: $29
+                - generic [ref=f3e14]: /month
+              - list [ref=f3e16]:
+                - listitem [ref=f3e17]:
+                  - img [ref=f3e18]
+                  - generic [ref=f3e20]: Up to 10 projects
+                - listitem [ref=f3e21]:
+                  - img [ref=f3e22]
+                  - generic [ref=f3e24]: 5GB storage
+                - listitem [ref=f3e25]:
+                  - img [ref=f3e26]
+                  - generic [ref=f3e28]: Basic support
+                - listitem [ref=f3e29]:
+                  - img [ref=f3e30]
+                  - generic [ref=f3e32]: Community access
+              - button "Get Started" [ref=f3e34] [cursor=pointer]
+            - generic [ref=f3e35]:
+              - generic [ref=f3e36]:
+                - heading "Professional" [level=3] [ref=f3e37]
+                - paragraph [ref=f3e38]: Best for growing teams
+              - generic [ref=f3e40]:
+                - generic [ref=f3e41]: $79
+                - generic [ref=f3e42]: /month
+              - list [ref=f3e44]:
+                - listitem [ref=f3e45]:
+                  - img [ref=f3e46]
+                  - generic [ref=f3e48]: Unlimited projects
+                - listitem [ref=f3e49]:
+                  - img [ref=f3e50]
+                  - generic [ref=f3e52]: 100GB storage
+                - listitem [ref=f3e53]:
+                  - img [ref=f3e54]
+                  - generic [ref=f3e56]: Priority support
+                - listitem [ref=f3e57]:
+                  - img [ref=f3e58]
+                  - generic [ref=f3e60]: Advanced analytics
+                - listitem [ref=f3e61]:
+                  - img [ref=f3e62]
+                  - generic [ref=f3e64]: Team collaboration
+              - button "Get Started" [ref=f3e66] [cursor=pointer]
+            - generic [ref=f3e67]:
+              - generic [ref=f3e68]:
+                - heading "Enterprise" [level=3] [ref=f3e69]
+                - paragraph [ref=f3e70]: For large organizations
+              - generic [ref=f3e72]:
+                - generic [ref=f3e73]: $199
+                - generic [ref=f3e74]: /month
+              - list [ref=f3e76]:
+                - listitem [ref=f3e77]:
+                  - img [ref=f3e78]
+                  - generic [ref=f3e80]: Unlimited everything
+                - listitem [ref=f3e81]:
+                  - img [ref=f3e82]
+                  - generic [ref=f3e84]: 1TB storage
+                - listitem [ref=f3e85]:
+                  - img [ref=f3e86]
+                  - generic [ref=f3e88]: 24/7 dedicated support
+                - listitem [ref=f3e89]:
+                  - img [ref=f3e90]
+                  - generic [ref=f3e92]: Custom integrations
+                - listitem [ref=f3e93]:
+                  - img [ref=f3e94]
+                  - generic [ref=f3e96]: Advanced security
+              - button "Get Started" [ref=f3e98] [cursor=pointer]
+  - alert [ref=e47]
+  - generic [ref=e453]:
+    - alert
+    - alert
