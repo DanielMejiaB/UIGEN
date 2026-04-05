@@ -5,7 +5,8 @@
       "Bash(npm audit:*)",
       "Bash(npx vitest:*)",
       "mcp__playwright",
-      "Bash(gh auth:*)"
+      "Bash(gh auth:*)",
+      "Bash(git push:*)"
     ]
   }
 }
