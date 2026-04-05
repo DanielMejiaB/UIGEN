@@ -14,7 +14,7 @@ npm run setup          # Install deps, generate Prisma client, run migrations
 
 # Development
 npm run dev            # Start dev server with Turbopack (requires NODE_OPTIONS shim)
-npm run dev:daemon     # Start dev server in background, logs to logs.txt
+npm run dev:daemon     # Start dev server in background, logs to log.txt
 
 # Build & production
 npm run build
