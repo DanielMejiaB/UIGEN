@@ -31,7 +31,9 @@ jobs:
           fetch-depth: 1
       - name: Project setup
         run: |
-          npm run setup
+          npm install --registry https://registry.npmjs.org/
+          npx prisma generate
+          npx prisma migrate dev
           npm run dev:daemon
 
       - name: Run Claude Code
