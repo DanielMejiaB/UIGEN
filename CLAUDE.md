@@ -36,7 +36,7 @@ Set `ANTHROPIC_API_KEY` in `.env.local` to use real Claude. Without it, the app 
 
 ## Architecture
 
-**UIGen** is an AI-powerd React component generater with live preview. Users describe components in natural language; Claude generates code that is displayed in a sandboxed iframe preview and editable in Monaco Editor. Projects persist to SQLite via Prisma for authenticated users.
+**UIGen** is an AI-powered React component generator with live preview. Users describe components in natural language; Claude generates code that is displayed in a sandboxed iframe preview and editable in Monaco Editor. Projects persist to SQLite via Prisma for authenticated users.
 
 ### Request Flow
 
